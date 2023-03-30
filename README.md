@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am Sangeetha Ravikumar ###
+ A Self taught Data Analyst
 
 <!--
 **sangeetharavi13/sangeetharavi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
