@@ -1,4 +1,4 @@
-### Hi there 👋 I am Sangeetha Ravikumar ###
+# Hi there 👋 I am Sangeetha Ravikumar ###
  A Self taught Data Analyst who enjoys working with Data
  
  ## My featured projects❓ 👨‍💻 🛰️
