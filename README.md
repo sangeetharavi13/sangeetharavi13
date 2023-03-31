@@ -1,7 +1,7 @@
 # Hi there 👋 I am Sangeetha Ravikumar ###
  A Self taught Data Analyst who enjoys working with Data.
  
- ## My featured projects❓ 👨‍💻 🛰️
+## My featured projects❓ 👨‍💻 🛰️
  
  * [Prevalence of diagnosed Diabetes in US Adults](https://github.com/sangeetharavi13/US-Diabetes-Tracker)
  * [Netflix Data Analysis using Python](https://github.com/sangeetharavi13/Netflix-Data-Analysis-using-Python)
