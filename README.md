@@ -1,5 +1,5 @@
 # Hi there 👋 I am Sangeetha Ravikumar ###
- A Self taught Data Analyst who enjoys working with Data.
+ A Data Analyst who enjoys working with Data.
  
 ## My featured projects❓ 👨‍💻 🛰️
  
