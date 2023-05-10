@@ -8,7 +8,7 @@
  * [Netflix Data Analysis using Python](https://github.com/sangeetharavi13/Netflix-Data-Analysis-using-Python)
 
  ## My Certifications 📜 🎓 ✔️
- 
+ *  [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/2BFATAHHS6J5)
  * 	[Python for Data Science, AI & Development- IBM](https://www.coursera.org/account/accomplishments/certificate/Y5PRK6AZC8T9)
  * 	[Pandas- Kaggle](https://www.kaggle.com/learn/certification/sangeetharavikumar/pandas)
  * 	[NumPy](https://olympus.mygreatlearning.com/courses/50633/certificate), [Matplotlib](https://olympus.mygreatlearning.com/courses/56749/certificate), [Seaborn](https://olympus.mygreatlearning.com/courses/57915/certificate)
